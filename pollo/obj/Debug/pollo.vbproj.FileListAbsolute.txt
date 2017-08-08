@@ -1,0 +1,31 @@
+c:\users\100615025\documents\visual studio 2015\Projects\pollo\pollo\bin\Debug\pollo.exe.config
+c:\users\100615025\documents\visual studio 2015\Projects\pollo\pollo\bin\Debug\pollo.exe
+c:\users\100615025\documents\visual studio 2015\Projects\pollo\pollo\bin\Debug\pollo.pdb
+c:\users\100615025\documents\visual studio 2015\Projects\pollo\pollo\bin\Debug\pollo.xml
+c:\users\100615025\documents\visual studio 2015\Projects\pollo\pollo\obj\Debug\pollo.vbprojResolveAssemblyReference.cache
+c:\users\100615025\documents\visual studio 2015\Projects\pollo\pollo\obj\Debug\pollo.Form1.resources
+c:\users\100615025\documents\visual studio 2015\Projects\pollo\pollo\obj\Debug\pollo.Resources.resources
+c:\users\100615025\documents\visual studio 2015\Projects\pollo\pollo\obj\Debug\pollo.vbproj.GenerateResource.Cache
+c:\users\100615025\documents\visual studio 2015\Projects\pollo\pollo\obj\Debug\pollo.exe
+c:\users\100615025\documents\visual studio 2015\Projects\pollo\pollo\obj\Debug\pollo.xml
+c:\users\100615025\documents\visual studio 2015\Projects\pollo\pollo\obj\Debug\pollo.pdb
+C:\Users\100615025\Documents\Visual Studio 2015\Projects\pollo\pollo\obj\Debug\pollo.deadForm.resources
+C:\Users\100615025\Documents\Visual Studio 2015\Projects\pollo\pollo\obj\Debug\pollo.gameOver.resources
+C:\Users\100615025\Documents\Visual Studio 2015\Projects\pollo\pollo\obj\Debug\pollo.winForm.resources
+C:\Users\100615025\Documents\Visual Studio 2015\Projects\pollo\pollo\obj\Debug\pollo.startMenu.resources
+C:\Users\100615025\Desktop\pollo\pollo\bin\Debug\pollo.exe.config
+C:\Users\100615025\Desktop\pollo\pollo\obj\Debug\pollo.exe
+C:\Users\100615025\Desktop\pollo\pollo\obj\Debug\pollo.xml
+C:\Users\100615025\Desktop\pollo\pollo\obj\Debug\pollo.pdb
+C:\Users\100615025\Desktop\pollo\pollo\bin\Debug\pollo.exe
+C:\Users\100615025\Desktop\pollo\pollo\bin\Debug\pollo.pdb
+C:\Users\100615025\Desktop\pollo\pollo\bin\Debug\pollo.xml
+C:\Users\100615025\Desktop\pollo\pollo\obj\Debug\pollo.vbprojResolveAssemblyReference.cache
+C:\Users\100615025\Desktop\pollo\pollo\obj\Debug\pollo.deadForm.resources
+C:\Users\100615025\Desktop\pollo\pollo\obj\Debug\pollo.Form1.resources
+C:\Users\100615025\Desktop\pollo\pollo\obj\Debug\pollo.gameOver.resources
+C:\Users\100615025\Desktop\pollo\pollo\obj\Debug\pollo.Resources.resources
+C:\Users\100615025\Desktop\pollo\pollo\obj\Debug\pollo.startMenu.resources
+C:\Users\100615025\Desktop\pollo\pollo\obj\Debug\pollo.winForm.resources
+C:\Users\100615025\Desktop\pollo\pollo\obj\Debug\pollo.vbproj.GenerateResource.Cache
+C:\Users\100615025\Desktop\pollo\pollo\obj\Debug\pollo.level2.resources
